@@ -1,2 +1,3 @@
 # Notes
-Chit Sheet
+
+python -m ipykernel install --user --name=firstEnv
