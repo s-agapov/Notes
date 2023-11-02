@@ -1,7 +1,7 @@
 # Notes
 
 python -m ipykernel install --user --name=firstEnv
-
+ JUPYTERLAB_WORKSPACES_DIR=/home/samsmu/Temp/asn jupyter lab --no-browser --ip="*"
 
 # Prolog
 ## 01
