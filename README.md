@@ -14,3 +14,6 @@ Settings-> User init file
 Не использовать pip install pyswip
 
 pip install git+https://github.com/yuce/pyswip@master#egg=pyswip
+
+## Gitlab
+ git remote add origin https://gitlab.smuit.ru/sagapov/gost.git
