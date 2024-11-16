@@ -8,12 +8,10 @@ python -m ipykernel install --user --name=firstEnv
 set default code directory swi-prolog
 Settings-> User init file
 
-:- initialization(cd( 'D:/Code/Learn/Prolog')).
+:- working_directory(_,'D:/Code/Projests/ArabicAstro/Researsh/Engine').
 
 ## 02
-Не использовать pip install pyswip
-
-pip install git+https://github.com/yuce/pyswip@master#egg=pyswip
+pip install pyswip=0.3.0
 
 ## Gitlab
  git remote add origin https://gitlab.smuit.ru/sagapov/gost.git
