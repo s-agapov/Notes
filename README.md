@@ -8,7 +8,7 @@ python -m ipykernel install --user --name=firstEnv
 set default code directory swi-prolog
 Settings-> User init file
 
-:- working_directory(_,'D:/Code/Projests/ArabicAstro/Researsh/Engine').
+:- working_directory(_,'D:/Code/Projects/ArabicAstro/Research/Engine').
 
 ## 02
 pip install pyswip=0.3.0
