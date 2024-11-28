@@ -15,3 +15,6 @@ pip install pyswip=0.3.0
 
 ## Gitlab
  git remote add origin https://gitlab.smuit.ru/sagapov/gost.git
+
+## Tensorflow
+pip install "tensorflow[and-cuda]==2.15.1"
